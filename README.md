@@ -25,14 +25,14 @@ A comprehensive view of business health.
 * **Channel Analysis:** Clear split between Internet Sales vs. Reseller Revenue.
 * **Geography:** Regional performance breakdown.
 
-![Executive Overview](./executive_overview.png)
+![Executive Overview](./1.png)
 
 ### 2. Product Pareto Analysis (80/20 Rule)
 A dynamic analysis identifying the "vital few" products.
 * **Logic:** The combination chart visualizes that a small percentage of products drives the majority of revenue.
 * **Actionable Insight:** Allows the supply chain team to prioritize inventory for high-impact items (Green bars).
 
-![Pareto Analysis](./pareto_analysis.png)
+![Pareto Analysis](./2.png)
 
 ### 3. Reseller Risk Assessment
 A strategic tool for partner management.
@@ -40,7 +40,7 @@ A strategic tool for partner management.
 * **Status Logic:** Partners are automatically classified as **"Healthy"** (Green) or **"At Risk"** (Red/Yellow) based on performance thresholds.
 * **Detail View:** Heatmap table highlights specific gaps in quota achievement.
 
-![Reseller Risk Analysis](./reseller_risk.png)
+![Reseller Risk Analysis](./3.png)
 
 ---
 
