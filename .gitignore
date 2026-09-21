@@ -1,0 +1,9 @@
+# Windows folder-view metadata
+desktop.ini
+
+# Power BI temp/lock artifacts
+*.pbix.lock
+~$*.pbix
+*.pbix.bak
+Cache/
+TempSaves/
